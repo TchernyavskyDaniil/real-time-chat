@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 
 # You can not run this add in local. You should create your firebase (firebase -> init, check keys) 
-Just look in website (Vue, Routing, Firebase)
+website (Vue, Routing, Firebase)
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
